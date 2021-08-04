@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Since I'm working on db and other connections, I am not uploading the code yet to avoid security issues, I'm just updating this file on github for the time being, stay tuned!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
